@@ -3,7 +3,7 @@ package netiex
 import (
 	//"fmt"
 	//"io/ioutil"
-	key "github.com/takstack/keys"
+	key "github.com/takstack/key"
 	LOG "github.com/takstack/logger"
 )
 

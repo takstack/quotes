@@ -1,7 +1,7 @@
 package netfmp
 
 import (
-	"github.com/takstack/keys"
+	"github.com/takstack/key"
 	LOG "github.com/takstack/logger"
 )
 
