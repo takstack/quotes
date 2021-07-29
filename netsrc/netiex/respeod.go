@@ -6,7 +6,7 @@ import (
 	//"os"
 	"sync"
 
-	"github.com/takstack/quotesformat"
+	"github.com/takstack/quoteformat"
 )
 
 func iexeodunmarshal(res []byte) format.IEXeodarr {

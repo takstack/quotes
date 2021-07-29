@@ -6,7 +6,7 @@ import (
 	//"os"
 	"sync"
 
-	"github.com/takstack/quotesformat"
+	"github.com/takstack/quoteformat"
 )
 
 func iexprofunmarshal(res []byte) format.IEXprof {

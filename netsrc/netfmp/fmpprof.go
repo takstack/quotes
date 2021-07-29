@@ -11,9 +11,9 @@ import (
 	"sync"
 
 	"github.com/takstack/qdb"
+	format "github.com/takstack/quoteformat"
 	"github.com/takstack/quotes/netsrc/netutil"
 	"github.com/takstack/quotes/parser"
-	format "github.com/takstack/quotesformat"
 )
 
 //FMPgetprofiles main handler to update profiles from FMP

@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/takstack/quotesformat"
+	"github.com/takstack/quoteformat"
 )
 
 func fmpeodunmarshal(res []byte) format.FMPhistEOD {

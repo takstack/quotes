@@ -7,7 +7,7 @@ import (
 	"github.com/takstack/qdb"
 	"github.com/takstack/qrw"
 
-	"github.com/takstack/quotesformat"
+	"github.com/takstack/quoteformat"
 )
 
 //Listindvsyms gets list of syms from file

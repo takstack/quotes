@@ -6,7 +6,7 @@ import (
 
 	LOG "github.com/takstack/logger"
 
-	"github.com/takstack/quotesformat"
+	"github.com/takstack/quoteformat"
 )
 
 func fmpeodparse(c1 <-chan format.FMPEOD, c2 chan<- format.EOD, wg *sync.WaitGroup, wk int) {

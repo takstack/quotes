@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/takstack/quotesformat"
+	"github.com/takstack/quoteformat"
 )
 
 func fmpsplitunmarshal(res []byte) format.FMPhistsplit {

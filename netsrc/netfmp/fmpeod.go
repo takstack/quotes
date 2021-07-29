@@ -7,9 +7,9 @@ import (
 	LOG "github.com/takstack/logger"
 	//"net/http"
 	"github.com/takstack/qdb"
+	"github.com/takstack/quoteformat"
 	"github.com/takstack/quotes/netsrc/netutil"
 	"github.com/takstack/quotes/parser"
-	"github.com/takstack/quotesformat"
 
 	//"strings"
 	"sync"

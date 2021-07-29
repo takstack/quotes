@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/takstack/quotesformat"
+	"github.com/takstack/quoteformat"
 )
 
 func iexprofparse(c1 <-chan format.IEXprof, c2 chan<- format.Prof, wg *sync.WaitGroup, wk int) {
