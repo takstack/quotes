@@ -1,8 +1,9 @@
 package netutil
 
 import (
-	LOG "github.com/takstack/logger"
 	"time"
+
+	LOG "github.com/takstack/logger"
 )
 
 //Limiter limits the rate
@@ -21,6 +22,6 @@ loop:
 			break loop
 		}
 	}
-	return
+	//return
 
 }

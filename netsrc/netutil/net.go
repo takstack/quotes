@@ -38,6 +38,7 @@ func Netreq(addr string, sym string, lim chan<- interface{}) ([]byte, int) {
 	respData, err := ioutil.ReadAll(resp.Body)
 	//LOG.R.Println(addr)
 	//LOG.R.Println("resp body:", sym, string(respData))
+	he(err)
 	return respData, RS
 }
 func he(err error) {

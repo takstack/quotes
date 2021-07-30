@@ -7,12 +7,12 @@ import (
 	"github.com/takstack/qdb"
 	"github.com/takstack/qrw"
 
-	"github.com/takstack/quoteformat"
+	format "github.com/takstack/quoteformat"
 )
 
 //Listindvsyms gets list of syms from file
 func Listindvsyms() [][]string {
-	f := qrw.Getreadfile("/quotes/file/targetsyms.txt", 0)
+	f := qrw.Getreadfile("/quotes/file/targetsyms.txt")
 	scanner := qrw.Startbufscanner(f)
 
 	var sl [][]string

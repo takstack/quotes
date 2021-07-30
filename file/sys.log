@@ -1,0 +1,3 @@
+ERROR:	2021/07/30 12:30:26 key.go:94: open C:\keys\src\keys.txt: The system cannot find the path specified.
+ERROR:	2021/07/30 12:30:26 key.go:94: invalid argument
+ERROR:	2021/07/30 12:30:26 key.go:94: unexpected end of JSON input
