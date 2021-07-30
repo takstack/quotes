@@ -1,0 +1,12 @@
+github.com/go-sql-driver/mysql v1.6.0 h1:BCTh4TKNUYmOmMUcQ3IipzF5prigylS7XXjEkfCHuOE=
+github.com/go-sql-driver/mysql v1.6.0/go.mod h1:DCzpHaOWr8IXmIStZouvnhqoel9Qv2LBy8hT2VhHyBg=
+github.com/takstack/key v0.0.1 h1:NE6XuyVJSPToZbGNX2vAAingpIXsVb9C9RCIOFAG/HI=
+github.com/takstack/key v0.0.1/go.mod h1:vVJwqnB/7m25Q5pPoDO7O1Wfybhd7M/vq/0PBVscv28=
+github.com/takstack/logger v0.0.0 h1:Y9uveB1Fk0YXZwM4b3FmI4eeMeoZztOnzjyBYkVsbRM=
+github.com/takstack/logger v0.0.0/go.mod h1:MwQOrvRUHnY9kfB88/jxr1xtF4/fmFGdbLTiz3cN++o=
+github.com/takstack/qdb v0.0.1 h1:AWj8eaqOWXa+ZAgdfNr1+7UIHX1r5nUPTNPj7wLpwZ8=
+github.com/takstack/qdb v0.0.1/go.mod h1:sFUly1wMlvESJoKC0x2PaKtihm9qJHJ0dlnirTHPoMo=
+github.com/takstack/qrw v0.0.0 h1:uqWawyi7FYwfw2Me33QERJDsyDr9QWKI6j8Q07ji1fU=
+github.com/takstack/qrw v0.0.0/go.mod h1:DRLu7NSLBqzn8OH0cE0nbP3TPX5mkTSD8uUByCeZmr4=
+github.com/takstack/quoteformat v0.0.0 h1:vtnDNOobr9Mm0GdlQVcF+DZgr65gND99J3z8UNMCwPc=
+github.com/takstack/quoteformat v0.0.0/go.mod h1:f++lhGNB+l7gIk5t0TxWGkLw6V2WEZqo45C8i/3YaQ8=

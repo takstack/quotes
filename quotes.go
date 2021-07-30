@@ -22,7 +22,7 @@ func main() {
 	//getquotes("all")
 	getdivs(scope, term)
 	getsplits(scope, term)
-
+	LOG.GL.Println("end of quotes")
 	//getmissingiexeod("file", "2020-06-15") //adj address date range and maxdate check before calling
 }
 func onetimenetreq() {
